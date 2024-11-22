@@ -27,7 +27,7 @@ public class LinkedTrain {
 
     }
 
-    // TODO: implement removeFirst() and remove()
+    // TODO: implement removeFirst() and removeLast()
     // Removes the node at the specified position
     public boolean removeFirst() {
         return false;
