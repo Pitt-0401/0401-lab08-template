@@ -25,7 +25,7 @@ public class QuickSort {
         int i = left - 1;
         // Reorder the array
         for (int j = left; j < right; j++) {
-            if (array[j].getAge() <= pivot.getAge()) {
+            if (array[j].getGPA() <= pivot.getGPA()) {
                 i++;
                 // TODO: reorder the elements
             }
